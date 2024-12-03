@@ -50,7 +50,7 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-
+i)HALF ADDER
 module ha(a,b,sum,carry);
 
 
@@ -72,7 +72,7 @@ endmodule
 
 
 
-
+ii)HALF SUBTRACTOR
 module hs(a,b,difference,borrow);
 
 
@@ -97,11 +97,25 @@ RegisterNumber:24900164*/
 
 **RTL Schematic**
 
+
+i)HALF ADDER
+![logi diagram](https://github.com/user-attachments/assets/265aaf7f-880c-4373-8576-1e373b55d21e)
+
+
+ii)HALF SUBTRACTOR
+![logic diagram](https://github.com/user-attachments/assets/fbd43f4c-8dbc-4e28-b077-a45c545d13ef)
+
+
+
 **Output/TIMING Waveform**
+
+i)HALF ADDER
 ![output](https://github.com/user-attachments/assets/2e42b844-3a64-4298-ae99-2f9d0c927c58)
+
+ii)HALF SUBTRACTOR
 ![output 2](https://github.com/user-attachments/assets/9f852368-2489-4c2c-8127-84e755ee3f4d)
 
 
 
 **Result:**
-Thus the Half adder and Full adder verified by using verilog programm.
+Thus the Half adder and half subtractor are verified by using verilog programm.

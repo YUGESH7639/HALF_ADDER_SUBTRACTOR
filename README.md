@@ -58,6 +58,8 @@ Figure -02 HALF Subtractor
 **Program:**
 
 i)HALF ADDER
+
+
 module ha(a,b,sum,carry);
 
 
@@ -80,6 +82,8 @@ endmodule
 
 
 ii)HALF SUBTRACTOR
+
+
 module hs(a,b,difference,borrow);
 
 
